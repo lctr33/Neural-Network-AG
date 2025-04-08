@@ -18,7 +18,6 @@ Algoritmo Genético para optimizar los pesos de una red neuronal en la clasifica
 
 ## 📋 Tabla de Contenidos
 - [Instalación](#🔧-instalación)
-- [Uso](#🚀-uso)
 - [Resultados](#📊-resultados)
 - [Tecnologías](#🛠️-tecnologías)
 - [Contribución](#🤝-contribución)
@@ -40,6 +39,20 @@ cd optimizacion-redes-geneticas
 ```bash 
 pip install -r requirements.txt
 ```
+## 📊 Resultados
+![Progreso del entrenamiento](loss_progress.png)
+*Pérdida durante el entrenamiento*
+
+![Ejemplos de Predicciones](predictions.png)
+*Predicciones en MNIST*
+
+Métricas Finales
+| Métrica              | Valor     |
+|----------------------|-----------|
+| Mejor pérdida        | 0.4521    |
+| Precisión en prueba  | 85.4%     |
+| Tiempo de ejecución  | 2h 15m    |
+
 ## 🛠️ Tecnologías
 
 - ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
@@ -47,3 +60,28 @@ pip install -r requirements.txt
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.3-orange?logo=matplotlib&logoColor=white)
 - ![Joblib](https://img.shields.io/badge/Joblib-1.4.2-green)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-FF6F00?logo=tensorflow&logoColor=white)
+
+## 🤝 Contribución
+1. **Haz un fork** del proyecto.
+2. Crea una rama:
+```bash
+git checkout -b feature/nueva-funcionalidad
+```
+3.Realiza el commit de tus cambios:
+```bash
+git commit -m 'Añade funcionalidad X'
+```
+4. Haz push a la rama:
+```bash
+git push origin feature/nueva-funcionalidad
+```
+5. Abre un **Pull Request** detallando los cambios
+
+## 📄 Licencia
+Distribuido bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## 📧 Contacto
+
+- **Autor:** Anibal Medina Cabrera  
+- **Correo:** [anibal.medina@uaem.edu.mx](mailto:anibal.medina@uaem.edu.mx)  
+- **Twitter:** [@l3ect3er](https://twitter.com/l3ect3er)

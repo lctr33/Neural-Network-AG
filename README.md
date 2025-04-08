@@ -35,5 +35,15 @@ Algoritmo Genético para optimizar los pesos de una red neuronal en la clasifica
 ```bash
 git clone https://github.com/tuusuario/optimizacion-redes-geneticas.git
 cd optimizacion-redes-geneticas
-2. Instala los requerimientos: 
+```
+2. Instala las dependencias:
+```bash 
 pip install -r requirements.txt
+```
+## 🛠️ Tecnologías
+
+- ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-purple?logo=numpy&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.3-orange?logo=matplotlib&logoColor=white)
+- ![Joblib](https://img.shields.io/badge/Joblib-1.4.2-green)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16.1-FF6F00?logo=tensorflow&logoColor=white)

@@ -26,7 +26,14 @@ Algoritmo Genético para optimizar los pesos de una red neuronal en la clasifica
 
 ## 🔧 Instalación
 
+### Requisitos Previos
+- Python 3.8 o superior.
+- Gestor de paquetes `pip`.
+
+### Pasos para Instalar
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/lctr33/Neural-Network-AG.git
-cd Neural-Network-AG
+git clone https://github.com/tuusuario/optimizacion-redes-geneticas.git
+cd optimizacion-redes-geneticas
+2. Instala los requerimientos: 
+pip install -r requirements.txt

@@ -28,5 +28,5 @@ Algoritmo Genético para optimizar los pesos de una red neuronal en la clasifica
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/optimizacion-redes-geneticas.git
-cd optimizacion-redes-geneticas
+git clone https://github.com/lctr33/Neural-Network-AG.git
+cd Neural-Network-AG

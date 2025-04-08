@@ -51,7 +51,7 @@ Métricas Finales
 |----------------------|-----------|
 | Mejor pérdida        | 0.4521    |
 | Precisión en prueba  | 85.4%     |
-| Tiempo de ejecución  | 2h 15m    |
+| Tiempo de ejecución  | 11h 15m    |
 
 ## 🛠️ Tecnologías
 
